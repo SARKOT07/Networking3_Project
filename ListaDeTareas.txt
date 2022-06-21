@@ -1,0 +1,26 @@
+-SACAR HOSTS----------------------------------------------------_/
++HACER TABLAS DE REDES LAN EN EL INFORME------------------------
+-HACER LA TOPOLOGIA---------------------------------------------
+-HACER LOS 6 VLSM-----------------------------------------------
++HACER TABLAS DE VLSM EN EL INFORME-----------------------------
+-ASIGNAR IP EN ROUTERS Y IPS FIJAS EN SERVIDORES----------------
++HACER TABLA DE EXPANSION DE DISPOSITIVOS ROUTER E INTERFACES---
++HACER TABLA DE INTERCONEXION DE ROUTERS------------------------
++HACER TABLA DE DISTRIBUCION DE DISPOSITIVIOS POR RED-----------
+-APLICAR EL PROTOCOLO OSPF--------------------------------------
++HACER TABLA DE CONFIGURACION FRAME RELAY EN EL INFORME---------
++HACER CONFIGURACION DE ENRUTAMIENTO OSPF EN EL INFORME---------
++EXPLICAR SOBRE LAS RESTRICCIONES DE REDES INALAMBRICAS(ACL)----
+-DHCP POOLS-----------------------------------------------------
++HACER TABLA DE DHCP POOLS EN EL INFORME------------------------
+-DNS(PAGINAS-DOMINIOS Y HTTP)-----------------------------------
++HACER LA TABLA DE SERVIDORES EN EL INFORME---------------------
+-TELEFONOS IP Y NO IP(REALIZAR SU NOTACION Y SIGNIFICADO)-------
++HACER TABLA DE DIAL-PEERS--------------------------------------
++HACER TABLA DE TELEFONOS EN EL INFORME-------------------------
+-CORREOS(CONF EN SERVIDORCORREO Y CADA USUARIO PC)--------------
++HACER TABLA DE CORREOS EN EL INFORME---------------------------
+
+
+-PACKET TRACER
++INFORME
