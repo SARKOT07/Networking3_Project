@@ -1,8 +1,8 @@
 -SACAR HOSTS----------------------------------------------------_/
 +HACER TABLAS DE REDES LAN EN EL INFORME------------------------
 -HACER LA TOPOLOGIA---------------------------------------------
--HACER LOS 6 VLSM-----------------------------------------------
-+HACER TABLAS DE VLSM EN EL INFORME-----------------------------
+-HACER LOS 6 VLSM-----------------------------------------------_/
++HACER TABLAS DE VLSM EN EL INFORME-----------------------------_/
 -ASIGNAR IP EN ROUTERS Y IPS FIJAS EN SERVIDORES----------------
 +HACER TABLA DE EXPANSION DE DISPOSITIVOS ROUTER E INTERFACES---
 +HACER TABLA DE INTERCONEXION DE ROUTERS------------------------
