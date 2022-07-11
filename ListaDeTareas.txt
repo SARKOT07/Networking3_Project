@@ -13,14 +13,14 @@
 -TELEFONOS IP Y NO IP(REALIZAR SU NOTACION Y SIGNIFICADO)-------_/
 +HACER TABLA DE DISTRIBUCION DE DISPOSITIVIOS POR RED-----------_/
 -Publicar DNS(PAGINAS-DOMINIO)----------------------------------_/
--Hacer lo HTTP de las paginas que piden TABLAS------------------x
+-Hacer lo HTTP de las paginas que piden TABLAS------------------_/
 +HACER LA TABLA DE SERVIDORES EN EL INFORME---------------------_/
 +HACER ESQUEMA DE TELEFONOS EN EL INFORME-----------------------_/
 +HACER TABLA DE DIAL-PEERS--------------------------------------_/
 +HACER TABLA DE CONFIGURACION DE TELEFONOS EN EL INFORME--------_/
 +HACER TABLA DE CORREOS EN EL INFORME---------------------------_/
 -CORREOS(CON EN SERVIDORCORREO Y CADA USUARIO PC)---------------_/
-+EXPLICAR SOBRE LAS RESTRICCIONES DE REDES INALAMBRICAS(ACL)----x F
++EXPLICAR SOBRE LAS RESTRICCIONES DE REDES INALAMBRICAS(ACL)----_/
 
 
 -PACKET TRACER
